@@ -1,11 +1,15 @@
 # Kullanıcı Kayıt Ekranı Projesi
+ > Kullanılınan Teknolojiler
+ * Javascript
+ * Css
+ * Html
 
- > Bu projede kullanıcıdan bazı bilgiler istenmektedir.
+ > Bu projede kullanıcıdan bazı bilgiler istenmektedir. İstenilen bilgilerde validationlar önemlidir. Eksik bilgi, karakter uzunlukları, boş geçilen alanlar olduğunda textboxların çevresi kırmızı yanar ve alt tarafında hata mesajı gelir. Başarılı bilgiler girildiğinde ise textboxlarda yeşil çerçeve görünür.
  * Kullanıcı Adı
  * Email
  * Şifre
  * Şifre Doğrulama
- > İstenilen bilgilerde validationlar önemlidir. Eksik bilgi, karakter uzunlukları, boş geçilen alanlar olduğunda textboxların çevresi kırmızı yanar ve alt tarafında hata mesajı gelir. Başarılı bilgiler girildiğinde ise textboxlarda yeşil çerçeve görünür.
+ 
     
 
 
