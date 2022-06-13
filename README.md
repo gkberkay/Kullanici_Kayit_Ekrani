@@ -1,7 +1,15 @@
-# Kullanici_Kayit_Ekrani
-Bu projede validation'lar kullanarak bir kullanıcı kayıt ekranı yaptım. Örneğin email'de regex kullandım ve @ işareti olmadan email'i kabul etmiyor. Kullanıcı adı ve şifreye min ve max olarak değerler verdim. Bu sınırlar içerisinde kabul ediliyor.
+# Kullanıcı Kayıt Ekranı Projesi
+
+ > Bu projede kullanıcıdan bazı bilgiler istenmektedir.
+ * Kullanıcı Adı
+ * Email
+ * Şifre
+ * Şifre Doğrulama
+ > İstenilen bilgilerde validationlar önemlidir. Eksik bilgi, karakter uzunlukları, boş geçilen alanlar olduğunda textboxların çevresi kırmızı yanar ve alt tarafında hata mesajı gelir. Başarılı bilgiler girildiğinde ise textboxlarda yeşil çerçeve görünür.
+    
 
 
-
-![](https://user-images.githubusercontent.com/88573428/173309907-f0adab09-4433-4468-92fe-9b8285345200.jpeg)
-<img src="https://user-images.githubusercontent.com/88573428/173309907-f0adab09-4433-4468-92fe-9b8285345200.jpeg" width="300" height="300">
+ <img src="https://user-images.githubusercontent.com/88573428/173316066-edf44d19-643d-4aab-91ff-5da21420f45c.PNG">
+ <img src="https://user-images.githubusercontent.com/88573428/173316255-114a8c13-a8e9-47a4-97d4-b84bab90a2af.PNG">
+ <img src="https://user-images.githubusercontent.com/88573428/173316313-240b858c-a4b8-43b1-a872-55c9e42410ff.PNG">
+ <img src="https://user-images.githubusercontent.com/88573428/173316362-83d97d2c-77d3-44ca-b493-961d24511715.PNG">
