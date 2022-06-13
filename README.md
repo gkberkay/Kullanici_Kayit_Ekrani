@@ -4,3 +4,4 @@ Bu projede validation'lar kullanarak bir kullanıcı kayıt ekranı yaptım. Ör
 
 
 ![](https://user-images.githubusercontent.com/88573428/173309907-f0adab09-4433-4468-92fe-9b8285345200.jpeg)
+<img src="https://user-images.githubusercontent.com/88573428/173309907-f0adab09-4433-4468-92fe-9b8285345200.jpeg" width="300" height="300">
